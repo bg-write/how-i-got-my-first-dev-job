@@ -1,6 +1,8 @@
 # The Daily Schedule That Helped Me Land My First Full-Time Dev Job After Bootcamp
 *By Brady Gerber*
 
+![Intro Image](https://doodleipsum.com/700?bg=D96363&i=cee6ae59b758c3ea1b33b7565aaf809a)
+
 **THE TL'DR** *It's better to do a little consistently every day, even if you don't see the immediate benefits right away.*
 
 ### THE IDEAL READER
@@ -18,10 +20,14 @@ Each task should take at most 50 minutes, with at least a 1-hour break in-betwee
 ### “SWEET, I’LL DO THIS SCHEDULE EVERY SINGLE DAY AND EVERYTHING WILL BE GOOD”
 Wait a minute. If you’re feeling ambitious, you could maybe do this during a free Saturday or Sunday as well. However, do NOT do this EVERY single day. Pick one day of the week where you don’t do any code or job hunting. (I picked Saturdays.) Having one day to recharge and step away from this very stressful work will only do your brain good. You’re not being lazy by taking a rest day.
 
+![Pre Image](https://doodleipsum.com/700?bg=6392D9&i=effb9b9c7c3263e9ff89401a72b1cc6b)
+
 ### A NOTE ABOUT SETTING EXPECTATIONS
 You know your goals, abilities, and limitations better than anyone. Some people have the means and resources to take their time with the job hunt. You may have a family to take care of, or you may have to work a temporary or side job to pay the bills while you look for the job you’ve been training for. Yes, you will see less qualified programmers get jobs quicker than you. No, it doesn’t get any easier seeing those “SOME ~PERSONAL~ NEWS” LinkedIn posts when you still don’t have a job. No, this doesn’t mean you’re not qualified to get a job. Other people’s success is not your failure.
 
 This schedule worked best for me, but it’s most important to be inspired to create the schedule that works best for YOU. The job hunt is more of an art than a science, and it’ll involve a lot of trial-by-error. It’ll also take time. You might not see the benefits of what you do one day until maybe a week, a month, a season, or even a year later. It took me 8 months after I graduated from my 12-week full-time bootcamp to get my first full-time salaried offer. I signed my offer almost a year to the date after I put in my 2-weeks of my last full-time job to pursue software engineering. There was no single thing I did that turned me from a total beginner into a qualified applicant overnight. It was the cultivation of staying consistently devoted to practicing and learning, rolling with the many highs and (many more) lows, and knowing when to step away. It took me 8 months, but I do believe that if I had this schedule from the start, I would have either found a job quicker, or I would have saved myself a few periods of depression and a lot of stress. Focus on creating fruitful and meaningful individual days, and you’ll be surprised by how quickly and strong your garden of knowledge will grow. As the saying goes: chance favors the prepared mind. Here’s another saying I like, via Annie Dillard: How we spend our days is how we spend our lives.
+
+![Image](https://doodleipsum.com/700/hand-drawn?bg=63C8D9&i=11a3d171a97916c9ab34237c49fd3a8c)
 
 ## THE SCHEDULE
 ## APPLY (50 minutes)
@@ -64,5 +70,11 @@ Create a new Google Doc (or Notion, or whatever note-taking device you prefer) w
 Seriously, take care of your body. **Do 1 type of exercise or activity that raises your heart rate**. This is so important that it deserves to be its own task. Even if you only have time to walk for 45 minutes, that’s enough. If you don’t live in an area that’s great for walking or going outside often, walk around your living space, do home workouts, stretch throughout the day, or whatever you can do. And [make sure your work space is built to work with, not against, your body](https://www.youtube.com/watch?v=F8_ME4VwTiw).
 * **ACTION STEP #1**: My go-to workout when I’m strapped for time is this [15-min HIIT workout](https://www.nbcnews.com/better/lifestyle/15-minute-full-body-hiit-workout-no-equipment-required-ncna977711) (no equipment needed). I also do this [10-min morning yoga exercise](https://www.youtube.com/watch?v=4pKly2JojMw) every morning.
 
+![Image](https://doodleipsum.com/700?bg=D98D63&i=41c9caaf4b5b46ed9eee0d4f869f5561)
+
 ## LAST NOTE
 You are not your work. The job hunt is hard.
+
+![Image](https://doodleipsum.com/700?i=4d5908e36bf303943a900d0fb4bcd93c)
+
+*Photos taken from [Doodle Ipsum](https://doodleipsum.com/)*.
