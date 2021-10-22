@@ -50,6 +50,40 @@ Some engineers and recruiters will recommend that you send 40+ applications a we
 *Give your future self a break*
 
 Create a new Google Doc (or Notion, or whatever note-taking device you prefer) where you can keep all your notes in one place, and **fill out 1 page with whatever topic you want to learn**: reread your class notes, read new articles, watch YouTube videos or anything else that teaches you something new. It’s best to focus on one specific topic a day or create a theme for the week (i.e. spend a week following a YouTube series that breaks down everything you need to know about React Hooks). Did you bomb a technical challenge because you didn’t understand JavaScript Promises? There’s your next topic! Create the ultimate reference that is tailored specifically to you and how you like to organize your thoughts, and when you run into technical challenges that’ll allow you to Google and refer to notes, you’ll be ready.
+
+If you don't know where to start, here are some topics to get you started (as someone with a full-stack software engineer background who mostly enjoys the front-end and works in vanilla JS, React, and Python):
+* HTML
+  * Basic HTML structures
+  * Semantic HTML
+  * Know how to build tables
+* CSS
+  * Flexbox
+  * CSS Grid
+  * Responsive design & media queries
+  * Bootstrap
+* JavaScript
+  * Variables (know the difference between var, const, and let)
+  * Scope, hoisting & closures ("this")
+  * Data types (number, string, boolean, null, undefined, etc)
+  * Operators & Expressions
+  * Objects & OOP
+  * Arrays & important array methods (ex. Map and Filter)
+  * Functions & knowing the differences between callback functions, higher-order functions, function declaration, function expression, and arrow functions
+  * Know how to build a Hashmap/Hashtable from scratch
+  * Conditional statements (if, ternary, switch)
+  * Loop statements (for, for of, for in, while, do while)
+  * DOM events & manipulation
+  * Promises and Async & Await
+  * JSON
+  * REST APIs, HTTP routing, and making API calls (fetch, axios)
+  * Using `setTimeout` and `setInterval` together
+  * RegEx
+  * Testing (ex. Jest)
+  * Modules (exporting and importing)
+  * Basic JS Security theory (XSS & CSRF)
+  * jQuery
+    * Some engineers will roll their eyes at this, but in the real world, I still encounter many websites that still rely on it; it's good to spend at least one day knowing the basics.
+* I also have notes for **React, Node.js, Express, MongoDB, how to "Hello, World" with the MERN-stack, TypeScript, Python, Django, Go, SQL (Postgres & MySQL), AWS, Accessibility, UX design**, and more.
 * **ACTION STEP #1**: Whenever I’m starting a new topic, I usually start with a solid YouTube series where I follow along with the code in a new study repo. My two favorite YouTube coding tutorial channels are [Traversy Media](https://www.youtube.com/c/TraversyMedia) and [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified). A lot of people also like [The Net Ninja](https://www.youtube.com/c/TheNetNinja) and [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
 
 ## CODE (50 minutes)
