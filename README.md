@@ -53,14 +53,17 @@ Create a new Google Doc (or Notion, or whatever note-taking device you prefer) w
 
 If you don't know where to start, here are some topics to get you started (as someone with a full-stack software engineer background who mostly enjoys the front-end and works in vanilla JS, React, and Python):
 * HTML
-  * Basic HTML structures
+  * Basic HTML structures & Attributes
   * Semantic HTML
-  * Know how to build tables
+  * Know how to build input fields & tables
 * CSS
   * Flexbox
   * CSS Grid
   * Responsive design & media queries
-  * Bootstrap
+  * Basics of Bootstrap and Material UI
+  * Custom properties
+  * Working with SVGs
+  * Pretty much every topic covered in [CSS-Tricks](https://css-tricks.com/guides/)
 * JavaScript
   * Variables (know the difference between var, const, and let)
   * Scope, hoisting & closures ("this")
