@@ -3,29 +3,53 @@
 
 ![Intro Image](https://doodleipsum.com/700?bg=D96363&i=cee6ae59b758c3ea1b33b7565aaf809a)
 
-**THE TL'DR** *It's better to do a little consistently every day, even if you don't see the immediate benefits right away.*
+**THE TL'DR**
+* Aim to do a few things every day consistently (with breaks). Even if you don't see the immediate benefits right away, it all adds up.
+* There are so many aspects about the job hunt that we can't control; focus on what **you** can control.
+* Make your schedule flexible enough to account for the days or weeks you're sick, dealing with personal matters, or burnout and you need to recharge; stay engaged every day, but avoid "If I don't do X, Y, and Z today, then I'll never get a job."
+* Other people’s success is not your failure.
+* Remember: High standards, low expectations*
+
+*If you wish to go straight to the schedule, check out **THE SCHEDULE** below, though I believe that this intro gives important context and explanations*
 
 ### THE IDEAL READER
-A recent college or Bootcamp graduate seeking their first dev role, and who doesn’t yet have an internship or apprenticeship, which are two excellent opportunities that will give you all the below skills.
+A recent college or Bootcamp graduate seeking their first dev role, and who doesn’t yet have an internship or apprenticeship.
 
-### THE GOAL OF THIS SCHEDULE
-Do these five tasks every weekday in any order you want.
+### THE GOAL
+Do five "themed" tasks every weekday in any order you want.
 
-### “DO YOU HAVE TO DO THESE ALL EXACTLY AS WRITTEN?”
-Nope. However, I found that these overall “themes” helped me plan out each day with activities that actually helped me in the job hunt, instead of spending hours sending out a million applications each day into the void.
+### “DO YOU HAVE TO DO ALL THESE TASKS EXACTLY AS WRITTEN?”
+Nope. However, I found that these overall “themes” helped me plan out each day with activities that actually helped me in the job hunt, instead of spending hours each day sending a million applications into the void.
 
-### “HOW LONG SHOULD THESE TAKE?”
-Each task should take at most 50 minutes, with at least a 1-hour break in-between tasks, a trick that I learned from Nick Bull (more on Bull below). I usually spent these breaks napping, reading, cooking, cleaning, running errands, hanging out with family or friends, and more; anything that got me away from my computer.
+### “HOW LONG SHOULD THESE TASKS TAKE?”
+Each task should take at most 50 minutes, with at least a 1-hour break in-between tasks, a trick that I learned from Nick Bull (more on him below). I usually spent these breaks reading, cooking, cleaning, running errands, calling friends and family, hanging out, and more; anything that got me away from my computer.
 
-### “SWEET, I’LL DO THIS SCHEDULE EVERY SINGLE DAY AND EVERYTHING WILL BE GOOD”
-Wait a minute. If you’re feeling ambitious, you could maybe do this during a free Saturday or Sunday as well. However, do NOT do this EVERY single day. Pick one day of the week where you don’t do any code or job hunting. (I picked Saturdays.) Having one day to recharge and step away from this very stressful work will only do your brain good. You’re not being lazy by taking a rest day.
+### “SWEET, I’LL REPEAT THIS SCHEDULE EVERY SINGLE DAY AND EVERYTHING WILL BE GOOD”
+If you’re feeling ambitious, you could maybe do this during a free Saturday or Sunday as well. However, do NOT do this EVERY single day. Pick one day of the week where you don’t do any code or job hunting. (I picked Saturdays.) Having one day to recharge and step away from this very stressful work will only do your brain good. You’re not being lazy by taking a rest day.
 
 ![Pre Image](https://doodleipsum.com/700?bg=6392D9&i=effb9b9c7c3263e9ff89401a72b1cc6b)
 
 ### A NOTE ABOUT SETTING EXPECTATIONS
-You know your goals, abilities, and limitations better than anyone. Some people have the means and resources to take their time with the job hunt. You may have a family to take care of, or you may have to work a temporary or side job to pay the bills while you look for the job you’ve been training for. Yes, you will see less qualified programmers get jobs quicker than you. No, it doesn’t get any easier seeing those “SOME ~PERSONAL~ NEWS” LinkedIn posts when you still don’t have a job. No, this doesn’t mean you’re not qualified to get a job. Other people’s success is not your failure.
+You know your goals, abilities, and limitations better than anyone. Some people have the means and resources to take their time with the job hunt. You may have a family to take care of, or you may have to work a temporary or side job to pay the bills.
 
-This schedule worked best for me, but it’s most important to be inspired to create the schedule that works best for YOU. The job hunt is more of an art than a science, and it’ll involve a lot of trial-by-error. It’ll also take time. You might not see the benefits of what you do one day until maybe a week, a month, a season, or even a year later. It took me 8 months after I graduated from my 12-week full-time bootcamp to get my first full-time salaried offer. I signed my offer almost a year to the date after I put in my 2-weeks of my last full-time job to pursue software engineering. There was no single thing I did that turned me from a total beginner into a qualified applicant overnight. It was the cultivation of staying consistently devoted to practicing and learning, rolling with the many highs and (many more) lows, and knowing when to step away. It took me 8 months, but I do believe that if I had this schedule from the start, I would have either found a job quicker, or I would have saved myself a few periods of depression and a lot of stress. Focus on creating fruitful and meaningful individual days, and you’ll be surprised by how quickly and strong your garden of knowledge will grow. As the saying goes: chance favors the prepared mind. Here’s another saying I like, via Annie Dillard: How we spend our days is how we spend our lives.
+Yes, you will see less qualified programmers get jobs quicker than you. No, it doesn’t get easier seeing those “SOME PERSONAL NEWS” LinkedIn posts when you still don’t have a job and just got another rejection. No, this doesn’t mean you’re not qualified to get a job. Other people’s success is not your failure.
+
+This schedule worked best for me, but it’s most important to be inspired to create the schedule that works best for YOU. The job hunt is more of an art than a science, and it’ll involve a lot of trial-by-error. It’ll also take time. You might not see the benefits of what you do one day until maybe a week, a month, a season, or even a year later.
+
+It took me 8 months after I graduated from my 12-week full-time bootcamp to get my first full-time salaried offer. I signed my offer almost a year to the date after I put in my 2-weeks of my last full-time job to pursue software engineering. I submitted nearly 200 applications, and I heard back from maybe a 1/3 of them, mostly rejections. I was invited to interview with 12 different companies, where either I didn't make it past the first phoner, or I made it to the final round and out of 10 chosen candidates out of hundreds of applicants, I was #11.
+
+All it takes is that one yes. I wish it came earlier. I also believe that the right yes came exactly when I had trained myself to be ready for that right yes. I hated hearing this advice while I was going through the process. Now that I'm on the other side, I understand why people give it.
+
+There was no single thing I did that turned me from a total beginner into a qualified applicant overnight. It was the cultivation of staying consistently devoted to practicing and learning, rolling with the many highs and (many more) lows, and knowing when to step away. It took me 8 months, but I do believe that if I had this schedule from the start, I would have either found a job quicker, or I would have saved myself a few periods of depression and a lot of stress.
+
+Focus on creating fruitful and meaningful individual days, and you’ll be surprised by how quickly and strong your garden of knowledge will grow. As the saying goes: chance favors the prepared mind. Here’s another saying I like, via Annie Dillard: How we spend our days is how we spend our lives.
+
+![Pre Image-2](https://doodleipsum.com/700/outline?i=3b9de5636429d0147d4bfbc1ca68f8d3)
+
+### ANOTHER NOTE ABOUT BURNOUT
+It's going to happen, one way or another. If you're in the job hunt long enough, there's no perfect planning you can do to prevent burnout. It's brutal. 9/10 times I made the mistake of trying to power through burnout instead of stepping away for a moment. 9/10 times, that decision kept my work to be mediocre, and more cruelly, the longer I stayed burnout, the longer it took to recover, thus the longer it took me to get a job.
+
+Seriously, take breaks.
 
 ![Image](https://doodleipsum.com/700/hand-drawn?bg=63C8D9&i=11a3d171a97916c9ab34237c49fd3a8c)
 
@@ -40,11 +64,15 @@ Every weekday, **submit at least 1 new job application**; **send 1 cold email/Li
 Some engineers and recruiters will recommend that you send 40+ applications a week. If you can do that, go for it; I had friends who did this and succeeded. However, from the past year of trial and error, I found that a few very thoughtful and intentional applications and connections were more helpful than a million quick applications thrown into the void. It was because of my network and personal connections that I landed my first production environment Agile-team work (Patrick!), my first paid work as an engineer (Sophia!), and my first full-time job offer (Patrick, again!) all of whom I kept in touch with throughout the past year, even just to check in and gossip about how amazing Kevin Bacon is. Don’t just reach out to people only when you need someone; check in on them, too.
 * **ACTION STEP #1**: Before you do any networking, make sure your **LinkedIn** profile is ace. (Here’s [mine](https://www.linkedin.com/in/brady-gerber/).) Two books I also recommend to help with using LinkedIn are Steve Dalton’s [The 2-Hour Job Search](https://2hourjobsearch.com/) and Nick Bull’s [Win The Interview Game](https://wintheinterviewgame.com/).
 
+![Image](https://doodleipsum.com/700?i=e712a623e3bb96e6940b4fd130045026)
+
 ## PRACTICE (50 minutes)
 *Make the eventual technical challenge a breeze … or at least less of a pain*
 
 **Complete 1 coding challenge** that either tests what you already know or teaches you new ways to solve problems that you’ll eventually see during an interview coding challenge. Some people prefer LeetCode, but I found [CodeSignal](https://codesignal.com/) to be easier to use, and it was where I consistently ran into the most problems that I would see in real-life interviews. To make your life easier, create a private repo where you can save all the challenges you practiced and eventually complete for interviews for later review and refactoring. Did you complete your challenge in less than 50 minutes? Do it again! And remember: the majority of these companies are not expecting you to solve the problem. They are testing to see how you handle difficult questions and problem-solving on the spot. Do you freeze up and don’t talk? Do you first ask questions to clarify the problem and try to make a plan? Do you ask if you’re allowed to Google, or make clear what resources are available to you? Do you dive in right away and hope for the best? Anyone can learn syntax; the goal is to prove that you can learn.
 * **ACTION STEP #1**: Before you even start CodeSignal, the three beginner problems you NEED to first master in your language of choice are **Palindrome**, **FizzBuzz**, and **Fibonacci**. If you can solve these three problems without referring to any notes or Google and can articulate your logic and thought-process out loud in under 15min, you’re already ahead of the pack.
+
+![Image](https://doodleipsum.com/700?i=656e5bba23d76eae300a40faf5ee1c3f)
 
 ## STUDY (50 minutes)
 *Give your future self a break*
@@ -89,6 +117,8 @@ If you don't know where to start, here are some topics to get you started (as so
 * I also have notes for **React, Node.js, Express, MongoDB, how to "Hello, World" with the MERN-stack, TypeScript, Python, Django, Go, SQL (Postgres & MySQL), AWS, Accessibility, UX design**, and more.
 * **ACTION STEP #1**: Whenever I’m starting a new topic, I usually start with a solid YouTube series where I follow along with the code in a new study repo. My two favorite YouTube coding tutorial channels are [Traversy Media](https://www.youtube.com/c/TraversyMedia) and [Web Dev Simplified](https://www.youtube.com/c/WebDevSimplified). A lot of people also like [The Net Ninja](https://www.youtube.com/c/TheNetNinja) and [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh).
 
+![Image](https://doodleipsum.com/700?i=9f2e40101aa69f0193496e444268ec83)
+
 ## CODE (50 minutes)
 *Keep your GitHub green*
 
@@ -100,6 +130,8 @@ If you don't know where to start, here are some topics to get you started (as so
 5. **A shared, open-source repo that encourages collaboration**. Either through your internship, apprenticeship, hackathon, or open source collaborations with other people. This will force you to work with other people, and it’s a great way to practice contributing to open-source and making pull requests on GitHub. For example, you could start a repo with your Bootcamp class where everyone contributes one terrible animal pun in one expanding README file; keep it simple and engaging.
 6. **Whatever you want!** If the five previous ideas sound boring, first make something that you’ve always wanted to make and that you would be proud to share. It’s a lot easier to code something when you … actually want to code it. It also shows that you actually enjoy programming and that you’re not doing this just for the money.
 * **ACTION STEP #1**: And an easy way to get started with all of this: Create a [personal GitHub README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) (here’s [mine](https://github.com/bg-write)).
+
+![Image](https://doodleipsum.com/700?i=cd65bc7d709cc40e58b993396173f153)
 
 ## EXERCISE (50 minutes)
 *Get away from the computer*
