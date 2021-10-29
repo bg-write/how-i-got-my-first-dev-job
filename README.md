@@ -11,16 +11,16 @@
 
 <hr>
 
-* *The ideal daily schedule includes the following themes: Apply, Practice, Study, Code, and Exercise.*
-* *Aim to do a few things consistently every day  (with breaks). Even if you don't see the immediate benefits, it'll all add up over time.*
-* *There are so many aspects about the job hunt that we can't control. Focus on what you can control; high standards, low expectations.*
-* *Financially and emotionally be ready to not land a job for at least a full year. And no, sometimes it doesn't get easier.*
-* *Make your schedule flexible enough to account for the days you're sick, dealing with personal matters, or feeling burnt out and need to recharge. You're not lazy by taking breaks.*
-* *The right people are not going to find us and pluck us out of obscurity and base our value only on the quality of our work. You need to network.*
+* *Apply, Practice, Study, Code, and Exercise.*
+* *Aim to do a few things consistently every day  (with breaks). Even if you don't see the immediate benefits, it all adds up over time.*
+* *There are so many aspects about the job hunt we can't control. Focus on what you can control; high standards, low expectations.*
+* *Financially and emotionally be ready to not land a job for at least a year. And no, sometimes it doesn't get easier.*
+* *Make your schedule flexible enough to account for the days when you're sick, dealing with personal matters, or feeling burnt out and need to recharge. You're not lazy by taking breaks.*
+* *The right people are not going to find you and pluck you out of obscurity and base your value only on the quality of your work. You need to network.*
 * *Being a master hacker is fun, but at least for your first job, companies want to hire people with experience working with other people over lone wolves.*
 * *Practice coding challenges not to solve them, but to practice how to think out-loud and break-down difficult problems.*
-* *Master the Hash Table.*
-* *Side projects help, but only if you're actually excited about what you're building and WANT to talk about them.*
+* *When in doubt, Hash Table.*
+* *Side projects help, but only if you're actually excited about what you're building and WANT to talk about them; it's easier to code things you actually want to build.*
 * *Other people's success is not your failure.*
 
 <hr>
@@ -41,7 +41,7 @@ Nope. However, I found that these overall “themes” with quantitative goals h
 ### “HOW LONG SHOULD THESE TASKS TAKE?”
 Each task should take at most 50 minutes, with at least a 1-hour break in-between tasks, a trick that I learned from Nick Bull (more on him below). I usually spent these breaks reading, cooking, cleaning, running errands, calling friends and family, hanging out, and more; anything that got me away from my computer.
 
-### “SWEET, I’LL REPEAT THIS SCHEDULE EVERY SINGLE DAY AND EVERYTHING WILL BE GOOD”
+### “SWEET, I’LL REPEAT THIS SCHEDULE EVERY DAY AND EVERYTHING WILL BE GOOD”
 If you’re feeling ambitious, you could maybe do this during a free Saturday or Sunday as well. However, do NOT do this every single day. This schedule is designed to help you treat the job hunt like a 9-5 job, including one day of the week where you don’t do any coding or job hunting. (I picked Saturdays.) Having one day to recharge and step away from this very stressful work will only do your brain good. You’re not being lazy by taking a rest day.
 
 ![Pre Image](https://doodleipsum.com/700?bg=6392D9&i=effb9b9c7c3263e9ff89401a72b1cc6b)
@@ -49,13 +49,13 @@ If you’re feeling ambitious, you could maybe do this during a free Saturday or
 ### A NOTE ABOUT SETTING EXPECTATIONS
 You know your goals, abilities, and limitations better than anyone. Some people have the means and resources to take their time with the job hunt. You may have a family to take care of, or you may have to work a temporary or side job to pay the bills. We have to make due with the time and energy we have, and the time and energy we're willing to put in.
 
-Yes, you will see less qualified programmers get jobs quicker than you. No, it doesn’t get easier seeing those “SOME PERSONAL NEWS!” LinkedIn posts when you still don’t have a job and just got another rejection email. No, this doesn’t mean you’re not qualified to get a job. Other people’s success is not your failure.
+Yes, you will see less qualified programmers get jobs quicker than you. No, it doesn’t get easier seeing another “SOME PERSONAL NEWS!” LinkedIn posts just after receiving another rejection email. No, this doesn’t mean you’re not qualified to get a job. Other people’s success is not your failure.
 
-This schedule worked best for me, but it’s most important to be inspired to create the schedule that works best for YOU. The job hunt is more of an art than a science. It’ll take a lot of trial-by-error. It’ll also take time. You might not see the benefits of what you do one day until maybe a week, a month, a season, or even a year later. That fellow Bootcamp graduate you met at the virtual networking Meetup and bonded with over *John Wick* might be the same person who five months later gives you the personal referral for a new position at the company they just joined.
+This schedule worked best for me, but it’s most important to be inspired to create the schedule that works best for YOU. The job hunt is more of an art than a science. It’ll take a lot of trial-by-error. It’ll also take time. You might not see the benefits of what you do one day until maybe a week, a month, a season, or even a year later. That fellow Bootcamp graduate you met at that virtual networking Meetup and bonded with over *John Wick* might be the same person who five months later gives you the personal referral for a new position at the company they just joined. You really never know.
 
 It took me 8 months after I graduated from my 12-week full-time bootcamp to get my first full-time salaried offer. I signed my offer almost a year to the date after I put in my 2-weeks of my last full-time job to pursue software engineering. I had to pause my job search a few times, including a few weeks when I moved to a new city. I submitted nearly 200 applications, and I heard back from maybe a 1/3 of them, mostly rejections. I was invited to interview with 12 different companies, where either I didn't make it past the first phoner, or I made it to the final round and, out of the 10 chosen candidates out of a pool of hundreds of applicants, I was #11. Ironically, it was lucky company #13 that worked out.
 
-All it takes is one yes. I wish it came earlier. I also believe that the right yes came exactly after I had trained myself to be ready for that exact right yes. I hated hearing this advice while I was looking for a job. Now that I'm on the other side, I understand it. (aka if you didn't get a specific job, it actually could be a blessing in disguise.)
+All it takes is one yes. I wish it came earlier. I also believe that the right yes came exactly after I had trained myself to be ready for that exact right yes. I hated hearing this advice while I was looking for a job. Now that I'm on the other side, I understand it. (aka if you don't get a specific job, that might be a blessing in disguise.)
 
 There was no single thing I did that turned me from a total beginner into a qualified applicant overnight. It was the cultivation of staying consistently devoted to practicing and learning, rolling with the highs and (many) lows, and listening to my body and knowing when to step away. It took me 8 months, but I do believe that if I had this schedule from the start, I would have either found a job quicker, or I would have saved myself a few periods of depression and a lot of stress.
 
@@ -66,18 +66,18 @@ Focus on creating fruitful and meaningful individual days, and you’ll be surpr
 ### ANOTHER NOTE ABOUT BOOTCAMPS
 Overall, I had a really positive Bootcamp experience at General Assembly. They do a lot of things well, and at the time, I needed more hands-on and interactive teaching, instead of teaching myself from scratch without any accountability. (If you can teach yourself software engineering and don't have to take a loan to do a Bootcamp, save your money and do that.)
 
-I think a good Bootcamp is one that can teach you *how to learn* and practice new languages and frameworks quickly, and how to be comfortable with jumping into difficult problems and breaking them down with other people. Actual employers don't care if you're the greatest React developer who ever lived; they want to know if you're a good team player, and someone skilled enough in React who also can learn Vue or Go right away if needed (or whatever is next year's most in-demand language or framework).
+I think a good Bootcamp is one that can teach you *how to learn* and practice new languages and frameworks quickly, and how to be comfortable jumping into difficult problems and breaking them down with other people. Actual employers don't care if you're the greatest React developer who ever lived; they want to know if you're a good team player, and someone skilled enough in React who also can learn Vue or Go right away if needed (or whatever is next year's most in-demand language or framework).
 
 This schedule is meant to build off what you (hopefully!) learned in Bootcamp, but this also works for someone who hasn't done a Bootcamp and is starting from ground zero.
 
 ### AND A NOTE ABOUT BURNOUT
-It's going to happen, one way or another. If you're in the job hunt long enough, there's no perfect planning that you can do to prevent burnout. It feels like universe checking in on you and asking: "Do you *still* want this?" It's brutal. 9/10 times, I made the mistake of trying to power through burnout instead of stepping away for a moment. 9/10 times, that decision kept me burnt out, and the longer I stayed burnt out, the longer it took me to recover, thus the longer it took me to get a job.
+It's going to happen, one way or another. If you're in the job hunt long enough, there's no perfect planning that you can do to prevent burnout. It feels like universe checking in on you and asking: "Do you *still* want this?" It's brutal. 9/10 times, I made the mistake of trying to power through burnout instead of stepping away for a sec. 9/10 times, that decision kept me burnt out. The longer I stayed burnt out, the longer it took me to recover, thus the longer it took me to get a job.
 
 Seriously, take breaks.
 
-And now, onto the dang thing!
-
 ![Image](https://doodleipsum.com/700/hand-drawn?bg=63C8D9&i=11a3d171a97916c9ab34237c49fd3a8c)
+
+And now, onto the dang thing!
 
 <hr>
 
@@ -88,16 +88,18 @@ And now, onto the dang thing!
 ## APPLY (50 minutes)
 *Networking for people who hate networking.*
 
-Networking can feel gross and unnatural, especially for us introverts. It’s also 100% necessary. I wish it wasn’t. However, the right people aren’t going to pluck us out of obscurity and base our value only on the quality of our work. I know, because at first I just waited around and focused on *only* coding by myself. No one does anything on their own, and most companies aren't interested in hiring lone wolves.
+Networking can feel gross and unnatural, especially for us introverts. It’s also 100% necessary. I wish it wasn’t. However, the right people aren’t going to pluck us out of obscurity and base our value only on the quality of our work. I know, because at first I just waited around and focused on *only* coding by myself. But no one does anything on their own, and most companies aren't interested in hiring lone wolves.
 
 People get jobs for many different reasons. Many of those reasons, good or bad, are beyond our control. Some of those reasons remain mysteries to us (and sometimes even to the people who hire us!). The one thing you can control is how you grow and treat your network and support system.
 
-Every weekday, **submit at least 1 new application**, with your resume tailored specifically to the job description; **send 1 cold email/LinkedIn message** to a senior software engineer at a company you like and wish to learn more about how they got into their role; **attend 1 networking event or Hackathon**; or **complete 1 part of the interview process** (the initial phoner, a live coding challenge, etc). Even spending 50 minutes researching a company and writing out potential questions for an upcoming interview is a good use of time. You can do all the above in one day too if possible, and which I encourage. At the very least, just aim to do one of these things that puts you out there and connects you to the outside world.
+Every weekday, **submit at least 1 new application**, with your resume tailored specifically to the job description; **send 1 cold email/LinkedIn message** to a senior software engineer at a company you like and wish to learn more about how they got into their role; **attend 1 networking event or Hackathon**; or **complete 1 part of the interview process** (the initial phoner, a live coding challenge, etc). Even spending 50 minutes researching a company and writing out potential questions for an upcoming interview is a good use of time.
 
-Some engineers and recruiters will recommend that you send 40+ applications a week. If you can do that, go for it; I've had friends who did this and succeeded. However, from the past year of trial-and-error, I found that a few very thoughtful and intentional applications and connections were more helpful than a million generic applications quickly thrown into the void.
+You can do all the above in one day too if possible, and which I encourage. At the very least, just aim to do one of these things that puts you out there and connects you to the outside world.
+
+Some engineers and recruiters will recommend that you send 40+ applications a week. If you can do that, go for it; I've had friends who did this and succeeded. However, from the past year of trial-and-error, I found that a few very thoughtful and intentional connections were more helpful than a million generic applications quickly thrown into the void.
 
 It was because of my network and personal connections that I landed my first production environment Agile-team work (Patrick!), my first paid work as an engineer (Sophia!), and my first full-time job offer (Patrick, again!) all of whom I kept in touch with throughout the past year, even just to check in and gossip about Kevin Bacon. Don’t just reach out to people only when you need someone; check in on them, too.
-* **ACTION STEP #1**: Before you do any networking, make sure your **LinkedIn** profile is ace and that you're taking advantage of everything LinkedIn has to offer. (Here’s [my profile](https://www.linkedin.com/in/brady-gerber/), which I'm always trying to improve.) Two books I also recommend to help clean up your LinkedIn profiles (and learn how to write excellent cold introduction messages) are Steve Dalton’s [The 2-Hour Job Search](https://2hourjobsearch.com/) and Nick Bull’s [Win The Interview Game](https://wintheinterviewgame.com/).
+* **ACTION STEP #1**: Before you do any networking, make sure your **LinkedIn** profile is ace and that you're taking advantage of everything it has to offer. (Here’s [my profile](https://www.linkedin.com/in/brady-gerber/), which I'm always trying to improve.) Two books I recommend to help clean up your LinkedIn profiles (and learn how to write excellent cold introduction messages) are Steve Dalton’s [The 2-Hour Job Search](https://2hourjobsearch.com/) and Nick Bull’s [Win The Interview Game](https://wintheinterviewgame.com/).
 
 ![Image](https://doodleipsum.com/700?i=e712a623e3bb96e6940b4fd130045026)
 
@@ -108,10 +110,10 @@ It was because of my network and personal connections that I landed my first pro
 
 This is my least favorite task, but you'll still want to do it. Every weekday, **Complete or review 1 coding challenge** that either tests what you already know, or teaches you new ways to solve problems that you’ll eventually see during an interview. Many people like LeetCode, but I found [CodeSignal](https://codesignal.com/) to be easier to use, and it was where I consistently ran into the most problems that I would see in real-life interviews.
 
-To make your life easier, create a private repo where you can save all the challenges you practiced and completed for interviews for later review and refactoring. Did you complete your challenge in less than 50 minutes? Do it again! And can you find a more efficient or cleaner solution?
+To make your life easier, create a private repo where you can save all the challenges you practiced and completed for interviews for later review and refactoring. Did you complete your challenge in less than 50 minutes? Sweet! Do it again! And can you find a more efficient or cleaner solution?
 
-Remember: the majority of these companies are not expecting you to solve the problem. They are testing to see how you handle difficult questions and problem-solving on the spot. Do you freeze up and not talk? Do you first ask questions to clarify the problem and try to make a plan? Do you ask if you’re allowed to Google, or make clear what resources are available to you? Do you dive in right away and hope for the best? Anyone can learn syntax; the goal is to prove that you can learn and ask informed questions, and that you seem like someone they can work with.
-* **ACTION STEP #1**: Before you even start CodeSignal, the three beginner problems you NEED to first master in your language of choice are [Palindrome](https://www.freecodecamp.org/news/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7/), [FizzBuzz](https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a), and [Fibonacci](https://medium.com/@justinhwu95/solving-the-fibonacci-sequence-in-javascript-c1ee37ef65d0). If you can solve these problems without referring to any notes or Google and can articulate your logic and thought-process (and how you would improve upon your solution with more time) out-loud in under 15 minutes, you’re already ahead of the pack.
+Remember: the majority of these companies are not expecting you to solve the entire problem perfectly. They are testing to see how you handle difficult questions and problem-solving on the spot. Do you freeze up and not talk? Do you first ask questions to clarify the problem and try to make a plan? Do you ask if you’re allowed to Google, or make clear what resources are available to you? Do you dive in right away and hope for the best? Anyone can learn syntax; the goal is to prove that you can learn and ask informed questions, and that you seem like someone they can work with.
+* **ACTION STEP #1**: Before you even start CodeSignal, the three beginner problems you need to first master in your language of choice are [Palindrome](https://www.freecodecamp.org/news/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7/), [FizzBuzz](https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a), and [Fibonacci](https://medium.com/@justinhwu95/solving-the-fibonacci-sequence-in-javascript-c1ee37ef65d0). If you can solve these problems without referring to any notes or Google and can articulate your logic and thought-process (and how you would improve upon your solution with more time) out-loud in under 15 minutes, you’re already ahead of the pack.
 
 ![Image](https://doodleipsum.com/700?i=656e5bba23d76eae300a40faf5ee1c3f)
 
@@ -122,16 +124,17 @@ Remember: the majority of these companies are not expecting you to solve the pro
 
 Create a new Google Doc (or Notion, or whatever note-taking device you prefer) where you can keep all your notes in one place, and every weekday,  **fill out 1 page with whatever topic you want to learn**: reread your class notes, read new articles, or watch YouTube videos or anything else that teaches you something new. 
 
-It’s best to focus on one specific topic a day or create a theme for the week (i.e. spend a week following a YouTube series that breaks down everything you need to know about React). Did you bomb a technical challenge because you didn’t understand what a JavaScript Promise or GET request was? There’s your next topic! Create the ultimate reference tailored to your knowledge gaps and how you like to organize your thoughts. And the underrated benefit of creating a master reference: when you run into technical challenges that’ll allow you to refer to notes, you’ll have one ready.
+It’s best to focus on one specific topic a day or create a theme for the week (i.e. spend a week following a YouTube series that breaks down everything you need to know about React). Did you bomb a technical challenge because you didn’t understand what a JavaScript Promise or HTTP GET request was? There’s your next topic! Create the ultimate reference tailored to your knowledge gaps and how you like to organize your thoughts. And the underrated benefit of creating a master reference: when you run into technical challenges that’ll allow you to refer to notes, you’ll have one ready.
 
-If you don't know where to start, here are some (but not all) topics that I believe most of us should know pretty well, as someone with a full-stack software engineer background who mostly enjoys the front-end and works in vanilla JS, React, and Python:
+If you don't know where to start, here are some (but not all) topics that I believe most of us should know pretty well, as a full-stack software engineer who mostly enjoys the front-end and works in vanilla JS, React, and Python:
 * HTML
   * Basic semantic HTML structures & attributes
+  * Be comfortable creating a working HTML file from scratch on the spot
   * Know how to build input fields & tables
 * CSS
   * Flexbox & CSS Grid
   * Responsive design & media queries
-  * The basics of Bootstrap and Material UI (at least know what they are and how they're different)
+  * The basics of Bootstrap and Material UI (or at least know what they are and how they differ)
   * Custom CSS properties
   * Working with SVGs
   * Pretty much every topic covered in [CSS-Tricks](https://css-tricks.com/guides/) (CSS-Tricks's Flexbox and CSS Grid references are the best I've yet to see anywhere online)
@@ -142,7 +145,7 @@ If you don't know where to start, here are some (but not all) topics that I beli
   * Operators & expressions
   * Objects & OOP
   * Arrays & important array methods (ex. `Map` and `Filter`)
-  * Functions & knowing the differences between callback functions, higher-order functions, function declaration, function expression, and arrow functions
+  * Functions and knowing the differences between callback functions, higher-order functions, function declaration, function expression, and arrow functions
   * Know how to build a Hash Map/Hash Table from scratch, and then with `Map`. (This is VERY important; if you think you can solve any coding challenge with some type of Hash, try that first.)
   * Conditional statements (if, ternary, switch)
   * Loop statements (for, for of, for in, while, do while)
@@ -168,7 +171,7 @@ If you don't know where to start, here are some (but not all) topics that I beli
 ## CODE (50 minutes)
 *Keep your GitHub green.*
 
-Every weekday, **Create 1 GitHub green square**. You can do this a few ways, including refactor your old deployed projects, create and work on new repos (public or private), and contribute to open source and make pull requests. GitHub allows you to pin any six repos on your profile, so make sure that those six pinned repos are projects that you’re really proud of and can talk about during interviews. Every interview also involved me talking about an example of when I worked with other engineers on a project; if you can build at least one repo with another engineer or UX Designer, you'll be in good shape. Here’s one way to approach these six repos (thank you, Howie, for this tip):
+Every weekday, **Create 1 GitHub green square**. You can do this a few ways, including refactor your old deployed projects you built in your Bootcamp, create and work on new repos (public or private), and contribute to open source and make pull requests. GitHub allows you to pin any six repos on your profile, so make sure that those six pinned repos are projects that you’re really proud of and can talk about during interviews. Every interview also involved me talking about an example of when I worked with other engineers on a project; if you can build at least one repo with another engineer or UX Designer, you'll be in good shape. Here’s one way to approach these six repos (thank you, Howie, for these tips!):
 1. **A creative app that shows off the tech stack you wish to get paid to do**. For example, if you're applying for React jobs, build something in React that demonstrates your understanding of state, hooks, and all the things that you can do in React that you can’t do in vanilla JS. No matter your tools or frameworks, including some type of Testing. (What I built: a React-built study guide teaching Big O, algorithms, and data structures through [*The Simpsons*](https://github.com/bg-write/big-doh), with amazing designs created from working with a UX Designer.) (Thank you, Molly!)
 2. **A working app that conveys your understanding of databases and APIs and which creates real-life business value**. For example, you can build a calendar app with the PERN-stack and include some type of Auth, Testing, and AWS functionality. If you share this app with your grandparents, would they be able to understand what it is and how to use it?
 3. **A clone of a popular app that proves that you can recreate something that a lot of people use**. And THEN add your own personal spin and improvements. (What I built: a [minimalist Spotify clone](https://github.com/bg-write/spotify-clone) that prints off lyrics while you listen to a song.)
@@ -192,7 +195,7 @@ Seriously. Every weekday, do something to take care of your body. **Do 1 type of
 <hr> 
 
 ## LAST NOTE
-You are not your work. The job hunt is hard. No one owes you success or a career. Keep your eyes on the prize, and you'll thank yourself in the future for taking a chance and doing something very difficult and very rewarding.
+You are not your work. The job hunt is hard, and no one owes you success or a career. Keep your eyes on the prize, and you'll thank yourself in the future for taking a chance and doing something very difficult and very rewarding.
 
 If I can do all the wrong things and still freaking get a job, believe me, so can you.
 
