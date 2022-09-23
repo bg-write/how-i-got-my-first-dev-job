@@ -1,9 +1,9 @@
-# The Daily Schedule That Helped Me Land My First Full-Time Dev Job After Bootcamp
+# The Daily Schedule That Helped Me Land My First Full-Time Dev Job After A Coding Bootcamp
 *By Brady Gerber*
 
 *First published: November 2021*
 
-*Last updated: September 2022 (added new book recommendations and my 10 commandments of coding)*
+*Last updated: September 2022 (added new book recommendations, my 10 commandments of coding, and the steps I take to solve live coding challenges)*
 
 ![Intro Image](https://doodleipsum.com/700?bg=D96363&i=cee6ae59b758c3ea1b33b7565aaf809a)
 
@@ -55,15 +55,15 @@ I also decided to go back to school during the first fall of the pandemic, which
 ![Pre Image](https://doodleipsum.com/700?bg=6392D9&i=effb9b9c7c3263e9ff89401a72b1cc6b)
 
 ### A NOTE ABOUT SETTING EXPECTATIONS
-You know your goals, abilities, and limitations better than anyone. Some people have the means and resources to take their time with the job hunt. You may have a family to take care of, or you may have to work another job to pay the bills. We have to make due with the time and energy we have, and the time and energy we're willing to put in.
+You know your goals, abilities, and limitations better than anyone. Some people have the means and resources to take their time with the job hunt. You may have a family to take care of, or you may have to work another job to pay the bills while you look for a new job. We have to make due with the time and energy we have, and the time and energy we're willing to put in.
 
 Yes, you will see less qualified programmers get jobs quicker than you. No, it doesn’t get easier seeing another “SOME PERSONAL NEWS!” LinkedIn post after you just received another rejection email. No, this doesn’t mean you’re not qualified to get a job. Other people’s success is not your failure.
 
-This schedule worked best for me, but it’s most important to be inspired to create your own schedule that works best for YOU. The job hunt is more of an art than a science. It’ll take a lot of trial-by-error. It’ll also take time. You might not see the benefits of what you do one day until maybe a week, a month, a season, or even a year later. That fellow bootcamp graduate you met at that virtual networking Meetup and bonded with over *John Wick* might be the same person who five months later gives you the personal referral for a new position at the company they just joined. Truly, you never know.
+This schedule worked best for me, but it’s most important to be inspired to create your own schedule that works best for YOU. The job hunt is more of an art than a science. It’ll take a lot of trial-by-error. It’ll also take time. You might not see the benefits of what you do until maybe a week, a month, a season, or even a year later. That fellow bootcamp graduate you met at that virtual networking Meetup and bonded with over *John Wick* might be the same person who five months later gives you the personal referral for a new position at the company they just joined. Truly, you never know.
 
-It took me eight months after I graduated from my 12-week full-time bootcamp to get my first full-time salaried offer. This was during the COVID job crash, and looking back, I probably picked the worst (or best?) time to get into software engineering. I was fortunate enough to be able to take a loan from my family to go back to school and help pay for living expenses, along with the money I made from my freelance writing. After a few months, I moved back home to save more money. I signed my offer almost a year to the date after I put in my two-weeks of my last full-time job to pursue software engineering. I had to pause my job search a few times, including a few weeks when I moved back home. I submitted nearly 200 applications, and I heard back from maybe a third of them, mostly rejections. I was invited to interview with 12 different companies, where either I didn't make it past the first phoner, or I made it to the final round and, out of the 10 chosen candidates out of a pool of hundreds of applicants, I was #11. Ironically, it was company #13 that worked out.
+It took me eight months after I graduated from my 12-week full-time bootcamp to get my first full-time salaried offer. This was during the COVID job crash, and looking back, I probably picked the worst (or best?) time to get into software engineering. I was fortunate enough to be able to take a loan from my family to go back to school and help pay for living expenses, along with the money I made from my freelance writing. After a few months, I moved back home with my mom to save money. I signed my offer almost a year to the date after I put in my two-weeks of my last full-time job to pursue software engineering. I had to pause my job search a few times, including a few weeks when I moved back home. I submitted nearly 200 applications, and I heard back from maybe a third of them, mostly rejections. I was invited to interview with 12 different companies, where either I didn't make it past the first phoner, or I made it to the final round and, out of the 10 chosen candidates out of a pool of hundreds of applicants, I was #11. Ironically, it was company #13 that worked out.
 
-All it takes is one yes. I wish that one "yes" came earlier. I also believe that the right yes came exactly after I had trained myself to be ready for that exact "yes." I hated hearing this advice while I was looking for a job. Now that I'm on the other side, I understand it. In other words, if you didn't get that one job, that might have been a blessing in disguise.
+All it took was that one yes. I wish that one "yes" came earlier. I also believe that the right yes came exactly after I had trained myself to be ready for that exact "yes." I hated hearing this advice while I was looking for a job. Now that I'm on the other side, I understand it. In other words, if you didn't get that one job, that might have been a blessing in disguise.
 
 There was no one single thing I did that turned me from a total beginner into a qualified applicant overnight. It was the cultivation of staying consistently devoted to practicing and learning, rolling with the highs and (many) lows, and listening to my mind and body and knowing when to step away. It took me eight months, but I do believe that if I had this schedule from the start, I would have either found a job quicker, or I would have saved myself a few periods of depression and a lot of stress.
 
@@ -72,11 +72,11 @@ Focus on creating fruitful and meaningful individual days, and you’ll be surpr
 ![Pre Image-2](https://doodleipsum.com/700/outline?i=3b9de5636429d0147d4bfbc1ca68f8d3)
 
 ### ANOTHER NOTE ABOUT BOOTCAMPS
-Overall, I had a positive bootcamp experience at General Assembly. They do a lot of things well, and at the time, I needed more hands-on and interactive teaching, instead of teaching myself from scratch without any accountability. With that said, if you can teach yourself software engineering and don't have to take a loan to do a bootcamp, save your money and do that. I'm a music journalist and went to college for business and music, but before GA, I had built a few Wordpress blogs and I knew very basic HTML and CSS and was aware of JavaScript. When I was deciding if I wanted to make the leap to a bootcamp, I first did a few course on [Treehouse](https://teamtreehouse.com/) just to see if I even *wanted* to code. When I realized that I actually enjoyed coding even in my most frustrated moments (*how do you center a div again??*) I knew I was ready.
+Overall, I had a positive bootcamp experience at General Assembly. They do a lot of things well, and at the time, I needed more hands-on and interactive teaching, instead of teaching myself from scratch without any accountability. With that said, if you can teach yourself software engineering and don't have to take a loan to do a bootcamp, save your money and do that. I'm a music journalist and went to a four-year college studying business and music, but before GA, I had built a few Wordpress blogs and I knew very basic HTML and CSS and was aware of JavaScript. When I was deciding if I wanted to make the leap to a bootcamp, I first did a few course on [Treehouse](https://teamtreehouse.com/) just to see if I even *wanted* to code. When I realized that I actually enjoyed coding even in my most frustrated moments (*how do you center a div again??*) I knew I was ready.
 
-I think a good bootcamp is one that can teach you *how to learn* and practice new languages and frameworks quickly, how to be comfortable jumping into difficult problems and breaking them down with other people, and how to develop a healthy relationship with frustration (as someone who now codes full time, that frustration never really goes away). Actual employers don't care if you're the world's greatest React developer. They want to know if you're a good team player, and someone skilled enough in React who also can learn Vue or Go right away if needed (or whatever is next year's most in-demand language or framework). Anyone can watch a bunch of YouTube videos and start building stuff - but can you explain the WHYs instead of just the HOWs?
+I think a good bootcamp is one that can teach you *how to learn* and practice new languages and frameworks quickly, how to be comfortable jumping into difficult problems and breaking them down with other people, and how to develop a healthy relationship with frustration (as someone who now codes full time, that frustration never goes away). Actual employers don't care if you're the world's greatest React developer. They want to know if you're a good team player, and someone skilled enough in React who also can learn Vue or Go right away if needed (or whatever is next year's most in-demand language or framework). Anyone can watch a bunch of YouTube videos and start building stuff - but can you explain the WHYs instead of just the HOWs?
 
-This schedule is meant to build off what you (hopefully!) learned in bootcamp, but this also works for someone who hasn't done a bootcamp and is starting from ground zero.
+This schedule is meant to build off what you hopefully learned in bootcamp, but this also works for someone who hasn't done a bootcamp and is starting from ground zero.
 
 ### AND A NOTE ABOUT BURNOUT
 If you're in the job hunt long enough, burnout is going to happen one way or another. There's no perfect planning that you can do to prevent it. It often felt like the universe's way of checking in with you and asking: "Do you *still* want this?" It's brutal. Most of the time, I made the mistake of trying to power through burnout instead of stepping away for a second. Most of the time, that decision *kept* me burnt out. The longer I stayed burnt out, the longer it took me to recover, thus the longer it took me to get a job.
@@ -85,7 +85,7 @@ Seriously, take breaks.
 
 ![Image](https://doodleipsum.com/700/hand-drawn?bg=63C8D9&i=11a3d171a97916c9ab34237c49fd3a8c)
 
-And now, onto the dang thing!
+And now, onto the dang thing.
 
 
 
@@ -96,20 +96,20 @@ And now, onto the dang thing!
 ## APPLY (50 minutes)
 *Networking for people who hate networking.*
 
-Networking can feel gross and unnatural, especially if you're an introvert like me. It’s also vital. I wish it wasn’t. However, the right people aren’t going to pluck us out of obscurity and base our value only on the quality of our work. I know, because at first I just waited around and focused on *only* coding by myself. But no one does anything on their own. Most (good) companies aren't interested in hiring lone wolves.
+Networking can feel gross and unnatural, especially if you're an introvert like me. It’s also vital. I wish it wasn’t. However, the right people aren’t going to pluck us out of obscurity and base our value only on the quality of our work. I know this because at first, I just waited around and focused on *only* coding by myself. But no one does anything on their own. Most (good) companies aren't interested in hiring lone wolves.
 
 People get jobs for many different reasons. Many of those reasons are beyond our control, good or bad. Some of those reasons remain mysteries to us (and to the people who hire us!). The one thing you CAN control is how you grow and treat your network and support system.
 
 Every weekday, **submit at least 1 new application**, with your resume tailored specifically to the job description; **send 1 cold email or LinkedIn message** to a senior software engineer at a company you like and wish to learn more about how they got into their role; **attend 1 networking event or Hackathon**; or **complete 1 part of the interview process** (the initial phoner, a live coding challenge, etc). Even spending 50 minutes researching a company and writing out potential questions for an upcoming interview is a good use of time.
 
-You can do all the above in one day too if possible, which I encourage. At the very least, just aim to do one of these things that gets you out of your head and connects you to the outside world.
+You can do all the above in one day if possible, which I encourage. At the very least, just aim to do one of these things that gets you out of your head and connects you to the outside world.
 
-Some engineers and recruiters will recommend that you send 40+ applications a week. If you can do that, go for it; I've had friends who did this and succeeded. However, from the past year of trial-and-error, I found that a few very thoughtful and intentional connections were way more helpful than a million generic applications quickly thrown into the void. Instead of "networking," think of it as "making friends before you need them." And friendships take time!
+Some engineers and recruiters will recommend that you send 40+ applications a week. If you can do that, go for it; I've had friends who did this and succeeded. However, from the past year of trial-and-error, I found that a few very thoughtful and intentional connections were way more helpful than a million generic applications quickly thrown into the void. Instead of "networking," think of it as "making friends before you need them." Friendships take time.
 
 It was because of my network and personal connections that I landed my first production environment Agile-team work (Patrick!), my first paid work as an engineer (Sophia!), and my first full-time job offer (Patrick, again!) all of whom I kept in touch with throughout the past year, even just to check in and gossip about Kevin Bacon. Don’t just reach out to people only when you need someone. Check in on them, too.
 
 A NOTE ABOUT DISABILITIES AND ACCESSIBILITY: I have a disability, and for the first couple of months, I made a point to not bring it up during the interview process because I didn't want to be taken out of consideration, even though I knew that my disability affected my ability to take technical challenges. I was too proud, and I thought that I wasn't allowed to ask for the help that I knew I needed. But eventually I decided to bring it up to recruiters and hiring managers early on in our conversations, and I was amazed by how accommodating and respectful everyone was. I know bringing up disabilities is tricky and emotional, and recruiters might advise different ways to bring up interview accommodations. I also now know that you are not hurting yourself by being honest. And if a company doesn't want to hire you because of who you are, do you want to work there?
-* **ACTION STEP #1**: Before you do any networking, make sure your **LinkedIn** profile is ace and that you're taking advantage of everything it has to offer. (Here’s [my profile](https://www.linkedin.com/in/brady-gerber/), which I'm always trying to improve. Also, if you're reading this and it helps you, let me know!) Two books I recommend to help you clean up and use your LinkedIn (and how to write excellent cold introduction messages) are Steve Dalton’s *[The 2-Hour Job Search](https://2hourjobsearch.com/)* and Nick Bull’s *[Win The Interview Game](https://wintheinterviewgame.com/)*.
+* **ACTION STEP #1**: Before you do any networking, make sure your **LinkedIn** profile is ace and that you're taking advantage of everything it has to offer. (Here’s [my profile](https://www.linkedin.com/in/brady-gerber/), which I'm always trying to improve. Also, if you're reading this and it helps you, reach out on there and let me know!) Two books I recommend to help you clean up and use your LinkedIn (and how to write excellent cold introduction messages) are Steve Dalton’s *[The 2-Hour Job Search](https://2hourjobsearch.com/)* and Nick Bull’s *[Win The Interview Game](https://wintheinterviewgame.com/)* (the latter is where I learned the trick of doing several themed tasks each day with breaks).
 
 ![Image](https://doodleipsum.com/700?i=e712a623e3bb96e6940b4fd130045026)
 
@@ -118,12 +118,12 @@ A NOTE ABOUT DISABILITIES AND ACCESSIBILITY: I have a disability, and for the fi
 ## PRACTICE (50 minutes)
 *Make the eventual technical challenge easier … or at least less of a pain.*
 
-This is my least favorite task. You'll still want to do it. Every weekday, **Complete or review 1 coding challenge** that teaches you something new, tests what you already know, or teaches you new ways to solve problems that you’ll eventually see during an interview. Many people like LeetCode, but I found [NeetCode](https://neetcode.io/) and [CodeSignal](https://codesignal.com/) to be easier to use and where I consistently ran into the most problems that I would see in real-life interviews.
+This is my least favorite task. You still need to do it. Every weekday, **Complete or review 1 coding challenge** that teaches you something new, tests what you already know, or teaches you new ways to solve problems you already know that you’ll eventually see during an interview. Many people like LeetCode, but I found [NeetCode](https://neetcode.io/) and [CodeSignal](https://codesignal.com/) to be easier to use and where I consistently ran into the most problems I would see in real-life interviews.
 
 To make your life easier, create a private repo where you can save all the challenges you practiced and completed for interviews for later review and refactoring. Did you complete your challenge in less than 50 minutes? Sweet! Do it again! And can you find a more efficient or cleaner solution?
 
 Remember: the majority of these companies are not expecting you to solve the entire problem perfectly or in time. They are testing to see how you handle difficult questions and problem-solving on the spot. Do you freeze up and not talk? Do you first ask questions to clarify the problem and try to make a plan? Do you ask if you’re allowed to Google, or clarify what resources are available to you? Do you dive in right away and hope for the best? Anyone can learn syntax; the goal is to prove that you can learn and ask informed questions, and that you seem like someone a company can work with.
-* **ACTION STEP #1**: Before you start NeetCode or CodeSignal, the first three beginner problems you need to master in your language of choice are [Palindrome](https://www.freecodecamp.org/news/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7/), [FizzBuzz](https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a), and [Fibonacci](https://medium.com/@justinhwu95/solving-the-fibonacci-sequence-in-javascript-c1ee37ef65d0). If you can solve these problems without referring to any notes or Google and can articulate your logic and thought-process (and how you would improve upon your solution if you had more time) out-loud in under 15 minutes, you’re already ahead of the pack. Also, my favorite book on how to improve your logical problem solving skills is George Pólya's *[How to Solve It](https://www.thriftbooks.com/w/how-to-solve-it-a-new-aspect-of-mathematical-method-princeton-science-library_george-plya/261545/item/19178387/?mkwid=ebaEc0jp%7cdc&pcrid=11558858361&pkw=&pmt=be&slid=&product=19178387&plc=&pgrid=3970769435&ptaid=pla-4580909049263393&utm_source=bing&utm_medium=cpc&utm_campaign=Bing+Shopping+%7c+Education+&+Teaching&utm_term=&utm_content=ebaEc0jp%7cdc%7cpcrid%7c11558858361%7cpkw%7c%7cpmt%7cbe%7cproduct%7c19178387%7cslid%7c%7cpgrid%7c3970769435%7cptaid%7cpla-4580909049263393%7c&msclkid=088b9a79845d16089c7dfbf0965c0537#idiq=19178387&edition=10323588)*.
+* **ACTION STEP #1**: Before you start NeetCode or CodeSignal, the first three beginner problems you need to master in your language of choice are [Palindrome](https://www.freecodecamp.org/news/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7/), [FizzBuzz](https://codeburst.io/javascript-breaking-down-the-shortest-possible-fizzbuzz-answer-94a0ad9d128a), and [Fibonacci](https://medium.com/@justinhwu95/solving-the-fibonacci-sequence-in-javascript-c1ee37ef65d0). If you can solve these problems without referring to any notes or Google and can articulate your logic and thought-process (and how you would improve upon your solution if you had more time) out-loud in under 15 minutes, you’re already ahead of the pack. My favorite book on how to improve your logical problem solving skills is George Pólya's *[How to Solve It](https://www.thriftbooks.com/w/how-to-solve-it-a-new-aspect-of-mathematical-method-princeton-science-library_george-plya/261545/item/19178387/?mkwid=ebaEc0jp%7cdc&pcrid=11558858361&pkw=&pmt=be&slid=&product=19178387&plc=&pgrid=3970769435&ptaid=pla-4580909049263393&utm_source=bing&utm_medium=cpc&utm_campaign=Bing+Shopping+%7c+Education+&+Teaching&utm_term=&utm_content=ebaEc0jp%7cdc%7cpcrid%7c11558858361%7cpkw%7c%7cpmt%7cbe%7cproduct%7c19178387%7cslid%7c%7cpgrid%7c3970769435%7cptaid%7cpla-4580909049263393%7c&msclkid=088b9a79845d16089c7dfbf0965c0537#idiq=19178387&edition=10323588)*.
 
 ![Image](https://doodleipsum.com/700?i=656e5bba23d76eae300a40faf5ee1c3f)
 
@@ -134,9 +134,9 @@ Remember: the majority of these companies are not expecting you to solve the ent
 
 Create a new Google Doc (or Notion, or whatever note-taking device you prefer) and every weekday,  **fill out 1 page with whatever topic you want to learn**. Reread your class notes, read new articles, or watch YouTube videos or anything else that teaches you something new. 
 
-It’s best to focus on one specific topic a day or create a theme for the week (i.e. spend a week following a YouTube series that breaks down everything you need to know about React). Did you bomb a technical challenge because you didn’t understand JavaScript Promises or HTTP GET requests? There’s your next topic. Create the ultimate reference tailored to your knowledge gaps and how you like to organize your thoughts. And the underrated benefit of creating a master reference: when you run into technical challenges that’ll allow you to refer to notes, you’ll already have one ready.
+It’s best to focus on one specific topic a day or create a theme for the week (i.e. spend a week following a YouTube series that breaks down everything you need to know about React). Did you bomb a technical challenge because you didn’t understand JavaScript Promises or HTTP GET requests? There’s your next topic. Create the ultimate reference tailored to your knowledge gaps and how you like to organize your thoughts. And the underrated benefit of creating a master reference: when you run into technical challenges that’ll allow you to refer to notes, you’ll have one ready.
 
-If you don't know where to start, here are some (but not all) topics that I believe most of us should know pretty well, as a full-stack software engineer who mostly enjoys working in the front-end and works in vanilla JS, React, and Python:
+If you don't know where to start, here are some topics that I believe most of us should know pretty well, as a full-stack software engineer who mostly enjoys working in the front-end and works in vanilla JS, React, and Python:
 * HTML
   * Basic semantic HTML structures & attributes
   * Be comfortable creating a working HTML file on the spot from scratch (aka do you actually know what each line of code does?)
@@ -146,14 +146,14 @@ If you don't know where to start, here are some (but not all) topics that I beli
   * Responsive design & media queries
   * The basics of Bootstrap and Material UI (or at least know what they are and how they are different)
   * Working with SVGs
-  * Pretty much every topic covered in [CSS-Tricks](https://css-tricks.com/guides/) (their Flexbox and CSS Grid references are the best I've yet to see anywhere online)
+  * Pretty much every topic covered in [CSS-Tricks](https://css-tricks.com/guides/) (their Flexbox and CSS Grid references are the best I've seen anywhere online)
 * JavaScript
   * Variables (know the difference between `var`, `const`, and `let` and when to use each)
   * Scope, hoisting & closures ("`this`")
   * Data types (number, string, boolean, null, undefined, etc)
   * Operators & expressions
   * Objects & OOP
-  * Arrays & important array methods (ex. `Map` and `Filter`)
+  * Arrays & the major array methods (ex. `Map` and `Filter`)
   * Functions and knowing the differences between callback functions, higher-order functions, function declaration, function expression, and arrow functions
   * Know how to build a Hash Map/Hash Table from scratch, and then with `Map`. (This is VERY important; if you think you can solve any coding challenge with some type of Hash, try that first.)
   * Conditional statements (if, ternary, switch)
@@ -165,7 +165,7 @@ If you don't know where to start, here are some (but not all) topics that I beli
   * Using different kinds of Auth
   * Using `setTimeout` and `setInterval` together (can you make a console log countdown timer from 10 with 2 seconds in-between numbers?)
   * RegEx
-  * Testing (ex. Jest)
+  * Testing (ex. Mocha or Jest)
   * Modules (exporting and importing)
   * Basic JS Security theory (XSS & CSRF)
   * jQuery (Some engineers will roll their eyes at me suggesting jQuery, but in the real world, I encounter many websites that still rely on it. It's good to spend at least one day learning the basics. I also use jQuery for my job, so you never know.)
@@ -196,16 +196,16 @@ Every weekday, **Create 1 new GitHub green square**. You can do this by committi
 *Get away from the computer.*
 
 Seriously. Every weekday, do things that take care of your body. **Do 1 type of exercise or non-sitting activity that raises your heart rate**. This is so important that it deserves to be its own task. Even if you only have time to walk for an hour, that’s enough. If you don’t live in an area that’s great for walking or going outside often, walk around your living space, do home workouts, stretch throughout the day, or whatever you can do. [Make sure your work space is built to work with, not against, your body](https://www.youtube.com/watch?v=F8_ME4VwTiw). Get at least seven hours of sleep every night. [Try cold showers](https://www.youtube.com/watch?v=nOuzSOnfyv0). Eat at least one raw veggie every day. Eat until you feel only 80% full. And so on.
-* **ACTION STEP #1**: My go-to workout when I’m strapped for time is this [15-min HIIT workout](https://www.nbcnews.com/better/lifestyle/15-minute-full-body-hiit-workout-no-equipment-required-ncna977711) (no equipment needed!). I also do this [10-min morning yoga exercise](https://www.youtube.com/watch?v=4pKly2JojMw) every morning.
+* **ACTION STEP #1**: My go-to workout when I’m strapped for time is this [15-min HIIT workout](https://www.nbcnews.com/better/lifestyle/15-minute-full-body-hiit-workout-no-equipment-required-ncna977711) (no equipment needed). I also do this [10-min morning yoga exercise](https://www.youtube.com/watch?v=4pKly2JojMw) every morning.
 
 ![Image](https://doodleipsum.com/700?bg=D98D63&i=41c9caaf4b5b46ed9eee0d4f869f5561)
 
 <hr> 
 
 ## LAST NOTE
-You are not your work. The job hunt is hard, and no one owes you success or a career. Keep your eyes on the prize, and you'll thank yourself in the future for taking a chance and doing something very difficult and very rewarding.
+You are not your work. The job hunt is hard, and no one owes you success or a career. It is not your employer's job to make you more marketable. Keep your eyes on the prize, and your future self will thank you for taking a chance and doing something very difficult and very rewarding.
 
-If I can do all the wrong things and still freaking get a job, believe me, so can you.
+If I can do all the wrong things and still get a job, believe me, so can you.
 
 Thanks for reading.
 
@@ -214,26 +214,26 @@ Thanks for reading.
 ## *EPILOGUE: MY 10 CODING COMMANDMENTS* 
 In honor of the (almost) one-year anniversary of publishing this guide, I've updated it to include some lessons and reminders about coding that I learned as a full-time software engineer. These are the rules I didn't quite understand while looking for a job that I now embrace every day at work.
 
-1. Life is not a line but a circle: breathe in, breathe out. Work, rest. Write, edit. Code, refactor. [Garbage in, garbage out.](https://austinkleon.com/steal/)
+1. Life is not a line but a circle: breathe in, breathe out. Work, play. Write, edit. Code, refactor. [Garbage in, garbage out.](https://austinkleon.com/steal/)
 2. Before you do anything, first identify the problem, then break it down.
 3. Create automated tests - and make sure your tests fail when they should, as fast as possible.
-4. Either add a feature or refactor old code. Do not do both at the same time. Repeat as needed. As soon as all your tests pass, stop!
+4. Either add a feature or refactor old code. Don't do both at the same time. Repeat as needed. As soon as all your tests pass, stop!
 5. Does this code makes sense hand written?
-6. Don't be great. Be good and have great habits.
+6. Don't be great. Be good, and have great habits.
 7. A good function is like a good sentence.
 8. I owe it to my boss to [say No](https://www.shortform.com/summary/the-clean-coder-summary-robert-c-martin).
-9. *"I will [action] by [set time]."* Doing anything more at one time is overthinking.
+9. *"I will [action] by [set time]."* Doing anything more complex at any one time is overthinking.
 10. Coding teaches us to problem solve. This is a good thing.
 
-## ALSO, MY REMINDERS FOR LIVE CODING CHALLENGES DURING INTERVIEWS
-I mentioned George Pólya's *[How to Solve It](https://www.thriftbooks.com/w/how-to-solve-it-a-new-aspect-of-mathematical-method-princeton-science-library_george-plya/261545/item/19178387/?mkwid=ebaEc0jp%7cdc&pcrid=11558858361&pkw=&pmt=be&slid=&product=19178387&plc=&pgrid=3970769435&ptaid=pla-4580909049263393&utm_source=bing&utm_medium=cpc&utm_campaign=Bing+Shopping+%7c+Education+&+Teaching&utm_term=&utm_content=ebaEc0jp%7cdc%7cpcrid%7c11558858361%7cpkw%7c%7cpmt%7cbe%7cproduct%7c19178387%7cslid%7c%7cpgrid%7c3970769435%7cptaid%7cpla-4580909049263393%7c&msclkid=088b9a79845d16089c7dfbf0965c0537#idiq=19178387&edition=10323588)* earlier in this guide, which really helped me gain confidence during a live coding challenge. Based on Pólya's book, I also wanted to add the steps I try to remind myself ahead of any coding interview:
+## ALSO, MY REMINDERS FOR LIVE CODING CHALLENGES DURING AN INTERVIEW
+I mentioned George Pólya's *[How to Solve It](https://www.thriftbooks.com/w/how-to-solve-it-a-new-aspect-of-mathematical-method-princeton-science-library_george-plya/261545/item/19178387/?mkwid=ebaEc0jp%7cdc&pcrid=11558858361&pkw=&pmt=be&slid=&product=19178387&plc=&pgrid=3970769435&ptaid=pla-4580909049263393&utm_source=bing&utm_medium=cpc&utm_campaign=Bing+Shopping+%7c+Education+&+Teaching&utm_term=&utm_content=ebaEc0jp%7cdc%7cpcrid%7c11558858361%7cpkw%7c%7cpmt%7cbe%7cproduct%7c19178387%7cslid%7c%7cpgrid%7c3970769435%7cptaid%7cpla-4580909049263393%7c&msclkid=088b9a79845d16089c7dfbf0965c0537#idiq=19178387&edition=10323588)* earlier in this guide, which really helped me gain confidence in doing live coding challenges. Based on Pólya's book, I also wanted to add the steps I try to remind myself ahead of any coding interview:
 
-1. First, remind yourself that you don't need this job. (Putting too much pressure on just one interview will likely hurt you more than it will help. You're still a capable engineer if this company does not hire you.)
-2. Read the problem (Silence)
-3. Clarify the problem (Ask)
-4. Confirm the problem (Re-tell)
-5. Break up the problem (Outline)
-6. Solve the broken-up problem, little by little (Sanity)
-7. Finish strong ("In Conclusion")
+1. First, remind yourself that you don't need this job. Putting too much pressure on just one interview will likely hurt you more than it will help. You're still a capable engineer if you don't get this job.
+2. Read the problem (silence)
+3. Clarify the problem (ask)
+4. Confirm the problem (re-tell)
+5. Break down the problem and the steps to address each step (outline)
+6. Solve the now broken-down problem, step by step (sanity)
+7. Review your work and next steps if given more time. End strong ("In conclusion ...")
 
 *All photos taken from [Doodle Ipsum](https://doodleipsum.com/)*.
