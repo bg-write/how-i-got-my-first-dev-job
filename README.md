@@ -234,6 +234,6 @@ I mentioned George Pólya's *[How to Solve It](https://www.thriftbooks.com/w/how
 4. Confirm the problem (re-tell)
 5. Break down the problem and the steps to address each step (outline)
 6. Solve the now broken-down problem, step by step (sanity)
-7. Review your work and next steps if given more time. End strong ("In conclusion ...")
+7. Review your work and next steps if given more time. End strong. ("In conclusion ...")
 
 *All photos taken from [Doodle Ipsum](https://doodleipsum.com/)*.
